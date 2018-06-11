@@ -15,7 +15,7 @@ The same project is built with each of these techniques. You'll find one folder 
 
 ## Instructions
 
-There are no special instructions for this project.
+Lesson 1: Create a webpage that takes user input and returns an image from the Unsplash API and articles from the New York Times API. Use AJAX with XML Http Request
 
 ## Creators
 
